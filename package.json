@@ -1,0 +1,24 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "test1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node conv.js",
+    "test": "echo test!!!! :) (^_^) :( (-_-) 😊"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makkii-bcr/test1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makkii-bcr/test1/issues"
+  },
+  "homepage": "https://github.com/makkii-bcr/test1#readme",
+  "devDependencies": {
+    "marked": "^2.0.3"
+  }
+}
