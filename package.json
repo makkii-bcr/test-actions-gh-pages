@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "node conv.js",
-    "test": "echo test!!!! :) (^_^) :( (-_-) 😊"
+    "test": "echo test!!!!😊"
   },
   "repository": {
     "type": "git",
